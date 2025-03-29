@@ -197,3 +197,7 @@ cython_debug/
 
 # OSX
 .DS_Store
+
+
+# local
+README_local.md
